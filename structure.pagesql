@@ -1,0 +1,16 @@
+ibm-hr-attrition-analysis/
+│
+├── README.md
+├── data/
+│   └── employee_attrition.csv
+├── notebooks/
+│   ├── 01-data-exploration.ipynb
+│   ├── 02-sql-analysis.sql
+│   ├── 03-excel-summary.xlsx
+│   └── 04-python-modeling.ipynb
+├── images/
+│   └── charts and dashboards
+├── scripts/
+│   └── data_cleaning.py
+└── reports/
+    └── summary-report.pdf
